@@ -358,6 +358,13 @@ text-align: center;
     color: var(--text-color);
 
 }
+.tel{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 16px;
+    color: var(--text-color);
+
+}
 @media (max-width:1200px){
     html{
         font-size: 55%;
